@@ -54,7 +54,7 @@ Faciliter le déploiement, les tests et la maintenance
 
 Chaque technologie tourne dans son propre container, mais tous les containers partagent un même réseau Docker.
 
-🧱 Architecture Docker
+## 🧱 Architecture Docker
 
 Container Frontend React
 
